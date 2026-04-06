@@ -1,7 +1,6 @@
 Hi 👋 My name is Uma Maheswari Malikireddy
 ==========================================
-
-Jr Fullstack developer
+Junior Research fellow
 --------------------------
 
 *   🌍  I'm based in Germany

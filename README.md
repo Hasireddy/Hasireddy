@@ -18,6 +18,5 @@ Junior Research fellow
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" height="36" alt="OpenAI" /></a>
 </p>
                     
